@@ -1,0 +1,16 @@
+# Environment variables — never commit secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Google service account keys
+google-credentials.json
+*.json

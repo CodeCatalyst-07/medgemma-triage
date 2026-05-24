@@ -1,0 +1,23 @@
+# ── Python / Backend ──────────────────────────────────
+backend/.env
+backend/__pycache__/
+backend/*.py[cod]
+backend/*.pyo
+backend/venv/
+backend/.venv/
+backend/env/
+backend/google-credentials.json
+backend/*.json
+
+# ── Node / Frontend ───────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# ── OS / Editor ───────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+.idea/
+.vscode/
